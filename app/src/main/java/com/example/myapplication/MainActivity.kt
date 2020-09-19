@@ -9,4 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     fun mytest():Int = 0
+
+    fun mytest2():String = "aaa"
 }
