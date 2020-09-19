@@ -13,4 +13,6 @@ class MainActivity : AppCompatActivity() {
     fun mytest2():String = "aaa"
 
     fun mytest3():Boolean = false
+
+    fun mytest4():Int = 1
 }
