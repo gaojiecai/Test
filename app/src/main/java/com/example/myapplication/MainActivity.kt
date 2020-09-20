@@ -22,5 +22,7 @@ class MainActivity : AppCompatActivity() {
         return "master"
     }
 
-    fun devcommit(){}
+    fun devcommit(){
+        print("hello")
+    }
 }
