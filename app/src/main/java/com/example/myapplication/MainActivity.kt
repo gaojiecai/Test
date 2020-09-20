@@ -22,8 +22,6 @@ class MainActivity : AppCompatActivity() {
         return "master"
     }
 
-    fun devcommit(){}
-
     fun masterfix(){
         
     }
