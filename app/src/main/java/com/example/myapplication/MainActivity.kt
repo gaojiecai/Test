@@ -18,5 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     fun mytest5():String = "bbb"
 
-    fun devbranch()
+    fun devbranch():String{
+        return "master"
+    }
 }
