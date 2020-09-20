@@ -32,4 +32,8 @@ class MainActivity : AppCompatActivity() {
     fun devcommit(){
         print("hello")
     }
+
+    fun testrebase(){
+
+    }
 }
