@@ -28,7 +28,10 @@ class MainActivity : AppCompatActivity() {
         
     }
 
-    fun issue_102(){
+    fun issue_102() {
+    }
         
+    fun devcommit(){
+        print("hello")
     }
 }
