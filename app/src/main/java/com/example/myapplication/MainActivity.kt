@@ -21,4 +21,6 @@ class MainActivity : AppCompatActivity() {
     fun devbranch():String{
         return "master"
     }
+
+    fun devcommit(){}
 }
