@@ -29,4 +29,8 @@ class MainActivity : AppCompatActivity() {
     fun masterfix(){
 
     }
+
+    fun issue_102(){
+        
+    }
 }
